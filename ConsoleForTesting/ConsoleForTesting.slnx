@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="H:/projects/course_architect/testing/ConsoleForTesting/ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="H:/projects/course_architect/testing/ConsoleForTesting/MSTest_Console/MSTest_Console.csproj" />
+  <Project Path="H:/projects/course_architect/testing/ConsoleForTesting/NUnit_Test_Console/NUnit_Test_Console.csproj" />
+  <Project Path="H:/projects/course_architect/testing/ConsoleForTesting/XUnit_Test_Console/XUnit_Test_Console.csproj" />
+  <Project Path="XUnit_BDD/XUnit_BDD.csproj" Id="4bd39b7d-daf0-4637-a0ae-e644baf9cd29" />
+</Solution>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E1A58-A83C-209B-89B2-C88D68D10433}|ConsoleApp1\\ConsoleApp1.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7E1A58-A83C-209B-89B2-C88D68D10433}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AF9DA4-1E21-9C40-6B78-09DA2E1546F9}|XUnit_Test_Console\\XUnit_Test_Console.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\xunit_test_console\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AF9DA4-1E21-9C40-6B78-09DA2E1546F9}|XUnit_Test_Console\\XUnit_Test_Console.csproj|solutionrelative:xunit_test_console\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD39B7D-DAF0-4637-A0AE-E644BAF9CD29}|XUnit_BDD\\XUnit_BDD.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\xunit_bdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD39B7D-DAF0-4637-A0AE-E644BAF9CD29}|XUnit_BDD\\XUnit_BDD.csproj|solutionrelative:xunit_bdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD39B7D-DAF0-4637-A0AE-E644BAF9CD29}|XUnit_BDD\\XUnit_BDD.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\xunit_bdd\\features\\familyfinerule.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4BD39B7D-DAF0-4637-A0AE-E644BAF9CD29}|XUnit_BDD\\XUnit_BDD.csproj|solutionrelative:xunit_bdd\\features\\familyfinerule.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E1A58-A83C-209B-89B2-C88D68D10433}|ConsoleApp1\\ConsoleApp1.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\consoleapp1\\familyfinerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7E1A58-A83C-209B-89B2-C88D68D10433}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\familyfinerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6F0725-904D-89E0-030E-FA463E2B631B}|NUnit_Test_Console\\NUnit_Test_Console.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\nunit_test_console\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6F0725-904D-89E0-030E-FA463E2B631B}|NUnit_Test_Console\\NUnit_Test_Console.csproj|solutionrelative:nunit_test_console\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46EAB89-A913-6CE2-43FE-3360EB55C7AD}|MSTest_Console\\MSTest_Console.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\mstest_console\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46EAB89-A913-6CE2-43FE-3360EB55C7AD}|MSTest_Console\\MSTest_Console.csproj|solutionrelative:mstest_console\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6F0725-904D-89E0-030E-FA463E2B631B}|NUnit_Test_Console\\NUnit_Test_Console.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\nunit_test_console\\nunit_test_console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F6F0725-904D-89E0-030E-FA463E2B631B}|NUnit_Test_Console\\NUnit_Test_Console.csproj|solutionrelative:nunit_test_console\\nunit_test_console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46EAB89-A913-6CE2-43FE-3360EB55C7AD}|MSTest_Console\\MSTest_Console.csproj|h:\\projects\\course_architect\\testing\\consolefortesting\\mstest_console\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46EAB89-A913-6CE2-43FE-3360EB55C7AD}|MSTest_Console\\MSTest_Console.csproj|solutionrelative:mstest_console\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FamilyFineRule.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\ConsoleApp1\\FamilyFineRule.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FamilyFineRule.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\ConsoleApp1\\FamilyFineRule.cs",
+              "RelativeToolTip": "ConsoleApp1\\FamilyFineRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T00:01:54.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FamilyFineRule.feature",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\XUnit_BDD\\features\\FamilyFineRule.feature",
+              "RelativeDocumentMoniker": "XUnit_BDD\\features\\FamilyFineRule.feature",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\XUnit_BDD\\features\\FamilyFineRule.feature",
+              "RelativeToolTip": "XUnit_BDD\\features\\FamilyFineRule.feature",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-14T00:01:03.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\XUnit_BDD\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "XUnit_BDD\\UnitTest1.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\XUnit_BDD\\UnitTest1.cs",
+              "RelativeToolTip": "XUnit_BDD\\UnitTest1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:55:18.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NUnit_Test_Console.csproj",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\NUnit_Test_Console\\NUnit_Test_Console.csproj",
+              "RelativeDocumentMoniker": "NUnit_Test_Console\\NUnit_Test_Console.csproj",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\NUnit_Test_Console\\NUnit_Test_Console.csproj",
+              "RelativeToolTip": "NUnit_Test_Console\\NUnit_Test_Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T21:57:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:53:31.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\XUnit_Test_Console\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "XUnit_Test_Console\\UnitTest1.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\XUnit_Test_Console\\UnitTest1.cs",
+              "RelativeToolTip": "XUnit_Test_Console\\UnitTest1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:46:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\NUnit_Test_Console\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnit_Test_Console\\UnitTest1.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\NUnit_Test_Console\\UnitTest1.cs",
+              "RelativeToolTip": "NUnit_Test_Console\\UnitTest1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:44:11.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\MSTest_Console\\Test1.cs",
+              "RelativeDocumentMoniker": "MSTest_Console\\Test1.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\MSTest_Console\\Test1.cs",
+              "RelativeToolTip": "MSTest_Console\\Test1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:38:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\MSTest_Console\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "MSTest_Console\\MSTestSettings.cs",
+              "ToolTip": "H:\\projects\\course_architect\\testing\\ConsoleForTesting\\MSTest_Console\\MSTestSettings.cs",
+              "RelativeToolTip": "MSTest_Console\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:38:00.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
